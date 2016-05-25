@@ -34,3 +34,8 @@ div.colored {
   width: 350px;
   height: 199px;
 }
+
+.flashy {
+  font-style: italic;
+  color: red;
+}
