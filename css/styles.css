@@ -1,0 +1,36 @@
+.header-image {
+  width: 100%;
+}
+
+h1 {
+  text-align: center;
+  font-family: sans-serif;
+}
+
+ul.menu li {
+  display: inline-block;
+  padding: 20px 30px;
+  background-color: pink;
+  text-align: center;
+}
+
+body {
+  text-align: center;
+  font-family: sans-serif;
+  line-height: 25px;
+}
+
+ul.list li {
+  list-style-image: url('../img/cupcake_icon.jpg');
+  list-style-position: inside;
+}
+
+div.colored {
+  background-color: pink;
+  padding: 20px;
+}
+
+.lined-up img {
+  width: 350px;
+  height: 199px;
+}
