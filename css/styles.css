@@ -39,3 +39,8 @@ div.colored {
   font-style: italic;
   color: red;
 }
+
+.best {
+  font-family: cursive;
+  font-size: 25px;
+}
