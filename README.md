@@ -1,6 +1,6 @@
 #### Cupcakes, May 2016
 
-#### By Meaghan and Brian
+#### By Meaghan and Patrick
 
 ## Description
 
@@ -8,7 +8,7 @@ This is a website to practice html and css.
 
 ## Setup/Installation Requirements
 
-Open in Web browser
+Open this [link](https://rawgit.com/meaghanjones/cupcakes/master/index.html) in Web browser.
 
 ## Known Bugs
 No known bugs
@@ -19,10 +19,10 @@ Contact us on github
 
 ## Technologies Used
 
-Html and CSS
+HTML and CSS
 
 ### License
 
 Open source
 
-Copyright (c) 2016 **Meaghan and **
+Copyright (c) 2016 **Meaghan and Patrick**
